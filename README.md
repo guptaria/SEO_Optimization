@@ -7,14 +7,14 @@ Purpose:
 The main agenda of SEO is to make programing code organised. This program has alot of semantics used which are related to the content, so that it will be easy to understand the program for the other developers
 
 
-SEMANTICS USED:
-<header>
-<ul>
-<li>
-<figure>
-<main>
-<section>
-<aside>
-<footer>
+SEMANTICS USED: <br>
+header <br>
+ul <br>
+li <br>
+figure <br>
+main <br>
+section <br>
+aside <br>
+footer 
 
 
