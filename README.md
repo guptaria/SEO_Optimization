@@ -1,4 +1,4 @@
-# Project name: SEO
+# Project name: SEO Optimization
 
 SEO stands for Search Engine Optimization, which is the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
 Once you're ready to start walking that SEO walk, it's time to apply those SEO techniques to a site, whether it's brand new or an old one you're improving.
